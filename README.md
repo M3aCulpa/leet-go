@@ -1,2 +1,1 @@
-# leet-go
-leetcode.com problems completed in go
+Welcome to `leet-go`! This repository is where I tackle LeetCode problems using the Go programming language. The purpose of this project is to improve my problem-solving skills and get more proficient with Go.
